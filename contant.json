@@ -1,0 +1,46 @@
+[
+  {
+  
+        "UrlTitel": "about",
+    "Urltexte":"SosoMod offers users a comprehensive, feature-packed way of installing unofficial content on their Android devices. It is completely free, and you don't need to root your Android device, so try it today, see what it can offer you and how it compares to what the official store offers",
+	  
+	  "button_title" : "",
+	"button_url" : "https://www.google.com"
+      
+  },
+  {
+        "UrlTitel": "Is SosoMod a safe app?",
+    "Urltexte":"All Apps in the SosoMod are safe for your Android device to download. They have to pass a virus check before they are listed in SosoMod. SosoMod is a modded APKs store which comes with the plenty of the latest apps and games with super fast download speed.";
+	 
+	  "button_title" : "",
+	"button_url" : ""
+  },
+  {
+    "UrlTitel": "How do I install SosoMod ?",
+    "Urltexte": "Open your browser and download the HappyMod APK file./n 1.Open Android Settings and go into Privacy or Security./n 2.Tap the option to Allow Unknown Sources and enable it./n 3.Go to your Android downloads and tap the APK file./n 4.Follow the directions on the screen to install it.",
+	  
+	  "button_title" : "",
+	  "button_url" : ""
+ },
+  {
+    "UrlTitel": "guide 3 ",
+    "Urltexte":"If you want to save yourself the hassle of working your way around Odd World and its terrifying inhabitants, legions of YouTubers have already found all the Rainbow Friends jumpscares, with multiple compilations available. We’ve put our favourite, with all the current available Jumpscares included, below for you to watch at your leisure. There you have it, all you need to know about Roblox’s Rainbow Friends horror experience.",
+	  "button_title" : "",
+	"button_url" : ""
+ 
+  },
+  {
+    "UrlTitel": "Lenses",
+    "Urltexte":  "A telescope made with lenses is called a refracting telescope.A lens, just like in eyeglasses, bends light passing through it. In eyeglasses, this makes things less blurry. In a telescope, it makes faraway things seem closer.";
+	  "button_title" : "",
+	"button_url" : ""
+  },
+{
+     "UrlTitel": "Why Mirrors Work Better",
+    "Urltexte":"A telescope that uses mirrors is called a reflecting telescope.Unlike a lens, a mirror can be very thin. A bigger mirror does not also have to be thicker. Light is concentrated by bouncing off of the mirror. So the mirror just has to have the right curved shape.It is much easier to make a large, near-perfect mirror than to make a large, near-perfect lens. Also, since mirrors are one-sided, they are easier than lenses to clean and polish.But mirrors have their own problems. Have you ever looked into a spoon and noticed your reflection is upside down? The curved mirror in a telescope is like a spoon: It flips the image. Luckily, the solution is simple. We just use other mirrors to flip it back.",
+	"button_title" : "",
+	"button_url" : ""
+   
+    
+}
+]
