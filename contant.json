@@ -15,27 +15,28 @@
   },
   {
     "UrlTitel": "How to get all locations for free?",
-    "Urltexte": "To do this, you need to exit the game and start it again. On the loading screen, where the settings are located, and the "Play" button, there is a button in the form of a shopping cart, colored green. This is Toki’s shop. After entering it, you should scroll through all the shopping offers to the very bottom, until you see a button that says: "Restore all purchases." You should click on it. After that, the progress of the operation with the inscription: "Wait" will appear on the screen. After a few seconds, "Excellent! Everything is ready!" After that, you need to go into the game and check if this trick worked for you. All paid locations and buildings should appear in your Toki world.",
+    "Urltexte": "To do this, you need to exit the game and start it again. On the loading screen, where the settings are located, and the 'Play' button, there is a button in the form of a shopping cart, colored green. This is Toki’s shop. After entering it, you should scroll through all the shopping offers to the very bottom, until you see a button that says: 'Restore all purchases'. You should click on it. After that, the progress of the operation with the inscription: 'Wait' will appear on the screen. After a few seconds, 'Excellent! Everything is ready!' After that, you need to go into the game and check if this trick worked for you. All paid locations and buildings should appear in your Toki world.",
 	  "button_title" : "",
 	  "button_url" : ""
  },
   {
     "UrlTitel": "Toca Life World: Cooking Recipes & Where to Get Ingredients",
-    "Urltexte":"",
+    "Urltexte":"You can cook various dishes in the game. There are places for cooking in the Apartment, in (your) designer houses (if you want to put a hob and oven). All ingredients can be found in locations and secret places (we wrote about some below). Sometimes you can go into any available building and see if you can profit from something. Do not hesitate to borrow food from your neighbors, they will come in handy for a variety of game moments and fictional stories. It should be noted that cooking is not overshadowed by the presence of additional appliances (ovens, dishes, and so on). You just need to take the right ingredients and combine them in your character’s hand. And to set the table beautifully, there are various culinary decorations and special dishes.\n\nSugar recipes (it’s worth noting that sugar packets are not available in free locations, to make sweets, you need to buy some locations for real money):\n\nSugar + Cherry = Cherry Pie.\nSugar + pumpkin = pumpkin pie.\nSugar + apple = apple pie.\nSugar + blueberries = blue birthday cake.\nSugar + strawberry = pink birthday cake.\nSugar + egg = French macaroni (sweetness).\nSugar + sugarcane = sugarcane cake.\n",
 	  "button_title" : "",
 	"button_url" : ""
  
   },
   {
-    "UrlTitel": "Lenses",
-    "Urltexte":  "A telescope made with lenses is called a refracting telescope.A lens, just like in eyeglasses, bends light passing through it. In eyeglasses, this makes things less blurry. In a telescope, it makes faraway things seem closer.";
+    "UrlTitel": "Burger recipes:",
+    "Urltexte":  "Burger buns + steak = classic burger.\nBurger buns + chicken = chicken burger.\nBurger buns + tomato = tomato burger.\nBurger rolls + white brie = brie burger.\nBurger Buns + Cheddar Cheese = Veggie Burger.\nBurger buns + sausage = hot dog.",
 	  "button_title" : "",
 	"button_url" : ""
   },
 {
-     "UrlTitel": "Why Mirrors Work Better",
-    "Urltexte":"A telescope that uses mirrors is called a reflecting telescope.Unlike a lens, a mirror can be very thin. A bigger mirror does not also have to be thicker. Light is concentrated by bouncing off of the mirror. So the mirror just has to have the right curved shape.It is much easier to make a large, near-perfect mirror than to make a large, near-perfect lens. Also, since mirrors are one-sided, they are easier than lenses to clean and polish.But mirrors have their own problems. Have you ever looked into a spoon and noticed your reflection is upside down? The curved mirror in a telescope is like a spoon: It flips the image. Luckily, the solution is simple. We just use other mirrors to flip it back.",
-	"button_title" : "",
+     "UrlTitel": "Snack recipes:",
+    "Urltexte":"Tortilla + chicken = chicken roll.\nTortilla + sausage = sausage roll.\nTortilla + tofu = tofu roll.\nTortilla + fish = fish tacos.\nTortilla + steak = meat tacos.\nMix for pizza + tomato = pizza \"Margarita\".\nSalad + chicken = chicken salad.\nSalad + brie = brie salad.\nBacon + egg = breakfast.\nTofu + Brown Sauce = Tofu with Brown Sauce.\nCocoa powder + egg = chocolate truffle.",
+
+  "button_title" : "",
 	"button_url" : ""
    
     
