@@ -1,7 +1,7 @@
 {
     "show_ads": true,
     "bannerAd": ["facebook", "facebook", "facebook"],
-    "InterAd": ["max", "max", "max"],
+    "InterAd": ["unity", "unity", "unity"],
 	"nativeAd": ["facebook", "facebook", "facebook"],
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
     "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -9,7 +9,7 @@
     "facebook_banner": "644332030394315_646493730178145",
     "facebook_inter": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
 	"facebook_native": "644332030394315_644349703725881",
-    "unityGameID": "3883855",
+    "unityGameID": "4978679",
     "unityBanner": "Banner_Android",
     "unityInter": "Interstitial_Android",
     "max_banner": "",
