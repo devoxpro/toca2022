@@ -1,21 +1,21 @@
 [
   {
   
-        "UrlTitel": "about toca boca",
-    "Urltexte":"Toca Life World is a game created from the series of games of the world of Toca-Boka, which was created based on the animated series of the same name. The project is a kind of life simulator, where the player independently not only creates his character, his environment, but also his own rules of the game. There are practically no restrictions on the creation and arrangement of your world. The player can invent and create various life situations, which can be limited only by the author’s imagination.",
+        "UrlTitel": "Star discovery Scratchin' Melodii now",
+    "Urltexte":"Scratchin' Melodii is a Rhythm Game by LJ LephemStar with a demo released for SAGE 2021 with three songs and another released for SAGE 2022 with five songs and the first part of the story mode. It's mostly inspired by games like PaRappa the Rapper and Um Jammer Lammy, with plenty of its own twists to keep things fresh.",
     "button_title" : "",
 	"button_url" : "https://www.google.com"
       
   },
   {
-        "UrlTitel": "Toca Life World: A Beginner’s Guide",
-    "Urltexte":"At the start of the game, you will be prompted to create your first character. You can choose any image from the suggested ones. Next, the world of Life CityToca and the character system are built, where you can create new heroes. Then the game will take you to your first apartment. This is where you can start your adventure. At the house you will be greeted by the main characters of the animated series - Rita and Nari. At the start of the game, you get the opportunity to create an image of any of the 8 heroes, and you will also have access to several locations. You can immediately try your abilities in movement and interaction with the heroes.Another building that you can visit at the start is the post office. If you received a gift, a red circle will light up above the house. To receive a present, you need to go to the post office and tap on the transport container. After that, your gift will appear on the tape.If you do not want to create heroes yourself, then you can use ready-made characters. At the bottom of the window, at the entrance to any building in the city, a panel with a choice of heroes will be available to you.",
+        "UrlTitel": "gameplay",
+    "Urltexte":"During gameplay, you have to push buttons either to repeat the opponent's lyrics/music or support them. Doing well enough lets Melodii proceed, but deviating from the given song by adding some additional beats grants more points and can even let Melodii ascend to a higher dimension and freestyle. The city the game takes place in is also explorable, with several locals to talk to and goodies to find, but you can also jump into each song in Quick-Groove mode.",
     "button_title" : "",
 	"button_url" : ""
   },
   {
-    "UrlTitel": "How to get all locations for free?",
-    "Urltexte": "To do this, you need to exit the game and start it again. On the loading screen, where the settings are located, and the 'Play' button, there is a button in the form of a shopping cart, colored green. This is Toki’s shop. After entering it, you should scroll through all the shopping offers to the very bottom, until you see a button that says: 'Restore all purchases'. You should click on it. After that, the progress of the operation with the inscription: 'Wait' will appear on the screen. After a few seconds, 'Excellent! Everything is ready!' After that, you need to go into the game and check if this trick worked for you. All paid locations and buildings should appear in your Toki world.",
+    "UrlTitel": "Why isn't my controller working/mapped right?",
+    "Urltexte": "If your control isn't working properly, the first thing you should try is restarting the game or adding the game to your Steam Library as a non-Steam game.* \n\n-Other possible solutions: \n\n-(If playing natively)\n\n-Make sure Steam, DS4Windows, or any other program that affects controller input isn't running in the background\n-Make sure your controller is player 1\nIf you're using an NS Pro Controller natively, try using it wirelessly\n(If added to Steam)\n\n-Make sure DS4Windows or any other program that affects controller input isn't running in the background\nMake sure your controller is player 1\nMake sure you have the config for your controller enabled in your Steam settings.",
 
     "button_title" : "",
 	  "button_url" : ""
@@ -28,22 +28,15 @@
  
   },
   {
-    "UrlTitel": "Toca Life World: Cooking Recipes & Where to Get Ingredients",
-    "Urltexte":  "Toca Life World: A Beginner’s Guide",
-    "Urltexte":"At the start of the game, you will be prompted to create your first character. You can choose any image from the suggested ones. Next, the world of Life CityToca and the character system are built, where you can create new heroes. Then the game will take you to your first apartment. This is where you can start your adventure. At the house you will be greeted by the main characters of the animated series - Rita and Nari. At the start of the game, you get the opportunity to create an image of any of the 8 heroes, and you will also have access to several locations. You can immediately try your abilities in movement and interaction with the heroes.Another building that you can visit at the start is the post office. If you received a gift, a red circle will light up above the house. To receive a present, you need to go to the post office and tap on the transport container. After that, your gift will appear on the tape.If you do not want to create heroes yourself, then you can use ready-made characters. At the bottom of the window, at the entrance to any building in the city, a panel with a choice of heroes will be available to you. ",
+    "UrlTitel": "I'm experiencing a bit of lag.",
+    "Urltexte":  "From my testing, I've only experienced hiccups at the beginning of a song when I have a program open that's using up a lot of my PC's power while the game is trying to run (Usually the Unity Editor). BUT, if you do run into any a quick \"Retry\" from the pause menu should let the game run  everything smoothly from there. Try turning the quality down in the Options menu if needed as well! Do keep in mind that there is a certain point where some lower-end PCs just cannot handle the game, however.",
 	  "button_title" : "",
 	"button_url" : ""
   },
 {
-     "UrlTitel": "How to get all locations for free?",
-    "Urltexte":"To do this, you need to exit the game and start it again. On the loading screen, where the settings are located, and the 'Play' button, there is a button in the form of a shopping cart, colored green. This is Toki’s shop. After entering it, you should scroll through all the shopping offers to the very bottom, until you see a button that says: 'Restore all purchases'. You should click on it. After that, the progress of the operation with the inscription: 'Wait' will appear on the screen. After a few seconds, 'Excellent! Everything is ready!' After that, you need to go into the game and check if this trick worked for you. All paid locations and buildings should appear in your Toki world.",
+     "UrlTitel": "the game cant fit my screen??",
+    "Urltexte":"Try going to  Options from the main menu, then make sure Windowed Mode is unchecked. If it is    unchecked    and still not fit to screen, then adjust Screen Resolution.",
   "button_title" : "",
-	"button_url" : ""
-	},
-  {
-    "UrlTitel": "Toca Life World: Cooking Recipes & Where to Get Ingredients",
-    "Urltexte":"You can cook various dishes in the game. There are places for cooking in the Apartment, in (your) designer houses (if you want to put a hob and oven). All ingredients can be found in locations and secret places (we wrote about some below). Sometimes you can go into any available building and see if you can profit from something. Do not hesitate to borrow food from your neighbors, they will come in handy for a variety of game moments and fictional stories. It should be noted that cooking is not overshadowed by the presence of additional appliances (ovens, dishes, and so on). You just need to take the right ingredients and combine them in your character’s hand. And to set the table beautifully, there are various culinary decorations and special dishes.\n\nSugar recipes (it’s worth noting that sugar packets are not available in free locations, to make sweets, you need to buy some locations for real money):\n\nSugar + Cherry = Cherry Pie.\nSugar + pumpkin = pumpkin pie.\nSugar + apple = apple pie.\nSugar + blueberries = blue birthday cake.\nSugar + strawberry = pink birthday cake.\nSugar + egg = French macaroni (sweetness).\nSugar + sugarcane",
-	  "button_title" : "",
 	"button_url" : ""
    
     
