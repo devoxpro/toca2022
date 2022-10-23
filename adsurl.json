@@ -1,7 +1,7 @@
 {
     "show_ads": true,
     "bannerAd": ["", "", ""],
-    "InterAd": ["facebook", "facebook", "facebook"],
+    "InterAd": ["max", "max", "max"],
 	"nativeAd": ["facebook", "facebook", "facebook"],
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
     "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -13,7 +13,7 @@
     "unityBanner": "banner",
     "unityInter": "video",
     "max_banner": "6db1491f2e21970c",
-    "max_inter": "812b82d9e0c7cb7f",
+    "max_inter": "682dee7da53d11ab",
 	"max_reward": "477fa5ae11bc025f",
     "more_btn": "More",
     "more_btn_link": "https://www.google.com"
